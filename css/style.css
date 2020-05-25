@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabriela&display=swap');
+
+body{
+  font-family: 'Gabriela', serif;
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+  background: url(https://avatars.mds.yandex.net/get-pdb/1774156/c5f2add8-5f47-4233-a8e1-190d44b7c975/s1200?webp=false) center
+  no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.glav{
+  background: #453f38;
+  width: 80%;
+  height: 100%;
+  margin-top: 100%;
+  border-style: solid;
+  border-radius: 20px;
+  text-decoration-color: #b3650c;
+}
+
+.container{
+  width: 100%;
+  max-width: 1300px;
+  margin: 0;
+  height: 100%;
+  background: left #faa525;
+  border-color: black;
+  border-style: solid;
+  border-width: thick;
+  border-radius: 40px;
+  padding: 25px;
+}
+
+.smallcontainer{
+  margin-left: 38%;
+  margin-bottom: 80%;
+  width: 60%;
+  height: 100%;
+  background: #edd924;
+  border-style: solid;
+  border-width: thick;
+  border-radius: 30px;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+h1{
+  margin: 0;
+  font-size: 50px;
+}
